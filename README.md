@@ -26,9 +26,17 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 ./mvnw gwt:run
 ````
 
+GWT Development Panel:
+![doc/GWT_Development_Panel.png](doc/GWT_Development_Panel.png)
+
+Screen program:
 [http://127.0.0.1:8888/SeedWebApp.html](http://127.0.0.1:8888/SeedWebApp.html)
 
 ![doc/screen1.png](doc/screen1.png)
+
+GWT Code Server: [http://127.0.0.1:9876/](http://127.0.0.1:9876/)
+
+![GWT_Code_Server.png](doc/GWT_Code_Server.png)
 
 Demo __link__ Bootstrap in [SeedWebApp.ui.xml](src/main/java/org/gwtbootstrap3/seed/client/SeedWebApp.ui.xml). 
 Used tag __"b"__ for Bootstrap (see in xmlns:b.html='urn:import:org.gwtbootstrap3.client.ui.html' in [SeedWebApp.ui.xml](src/main/java/org/gwtbootstrap3/seed/client/SeedWebApp.ui.xml)):
