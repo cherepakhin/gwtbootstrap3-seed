@@ -30,7 +30,8 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 
 ![doc/screen1.png](doc/screen1.png)
 
-Demo __link__ Bootstrap in [SeedWebApp.ui.xml](src/main/java/org/gwtbootstrap3/seed/client/SeedWebApp.ui.xml). Used tag __"b"__:
+Demo __link__ Bootstrap in [SeedWebApp.ui.xml](src/main/java/org/gwtbootstrap3/seed/client/SeedWebApp.ui.xml). 
+Used tag __"b"__ for Bootstrap (see in xmlns:b.html='urn:import:org.gwtbootstrap3.client.ui.html' in [SeedWebApp.ui.xml](src/main/java/org/gwtbootstrap3/seed/client/SeedWebApp.ui.xml)):
 
 ````html
     <b.html:Div>
