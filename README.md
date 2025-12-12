@@ -1,6 +1,7 @@
 ### Demo simplest GWT + Spring Boot
+(seed - семя, зерно)
 
-Java 8
+Used Java 8:
 
 ````shell
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
