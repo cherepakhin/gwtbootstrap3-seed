@@ -50,7 +50,7 @@ Used tag __"b"__ for Bootstrap (see in xmlns:b.html='urn:import:org.gwtbootstrap
     </b.html:Div>
 ````
 
-translated to:
+translated to HTML (i added comments):
 
 ````html
 <div>                                                // --> <b.html:Div>
