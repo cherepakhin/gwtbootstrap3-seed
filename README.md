@@ -1,5 +1,6 @@
 ### Demo simplest GWT + Bootstrap3
 
+BootStrap3  !!!.
 Used Java 8 !!!:
 
 ````shell
@@ -43,7 +44,7 @@ Used tag __"b"__ for Bootstrap (see in xmlns:b.html='urn:import:org.gwtbootstrap
 
 ````html
     <b.html:Div>
-        <b:Well>
+        <b:Well> // In Bootstrap 3 - "Well", Bootstrap 4 - "Card". Wells are dropped from Bootstrap with the version 4. Bootstrap 4 "Card" has replaced the "Well". 
             <b:Heading size="H1" text="Seed Web App" />
             <b.html:Paragraph>Just fork this repo and get started!!</b.html:Paragraph>
         </b:Well>
