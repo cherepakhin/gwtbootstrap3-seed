@@ -1,5 +1,4 @@
-### Demo simplest GWT + Spring Boot
-(seed - семя, зерно)
+### Demo simplest GWT + Bootstrap3
 
 Used Java 8:
 
